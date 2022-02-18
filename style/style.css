@@ -1,0 +1,94 @@
+.nav1{
+  width:1300px;
+  margin-top: 30px;
+  margin-left: 130px;
+  margin-right: 130px;
+  background-color: #aa9a9a;
+  
+}
+
+
+  ​a:visited, a:link, a:hover
+{
+
+    text-decoration: none;
+    
+}
+
+
+
+.admcont{
+  width:1300px;
+  margin-top: 30px;
+  margin-left: 130px;
+  margin-right: 130px;
+  background-color: #ffffff;
+  text-align: right;
+  text-decoration-color: black;
+  text-transform: capitalize;
+  font-size: 12px;
+  
+
+}
+
+
+
+.containmap1 {
+  margin-top: 50px;
+  margin-bottom: 130px;
+  margin-left: 130px;
+  margin-right: 130px;
+
+    width:1300px;
+    height: 300px;
+    background-color: #aa9a9a;
+    text-align: center;
+    text-decoration-color: aquamarine;
+    
+}
+.containmap {
+    
+  
+  margin-bottom: 0px;
+    width:1300px;
+    height: 600px;
+    background-color: #aa9a9a;
+    text-align: center;
+    text-decoration-color: aquamarine;
+    
+}
+
+.containform{
+ margin-top: 60px;
+ margin-bottom: 0px;
+  width:1300px;
+  height: 520px;
+  background-color: #aa9a9a;
+  text-align: center;
+  text-decoration-color: aquamarine;
+}
+
+.containofe{
+  margin-top: 0px;
+  margin-bottom: 130px;
+  margin-left: 130px;
+  margin-right: 130px;
+  width:1300px;
+  height: 800px;
+  background-color: #aa9a9a;
+  text-align: center;
+  text-decoration-color: aquamarine;
+}
+
+.logcon
+{
+  margin-top: 0px;
+  margin-bottom: 130px;
+  margin-left: 130px;
+  margin-right: 130px;
+  width:1300px;
+  height: 800px;
+  background-color: #aa9a9a;
+  text-align: center;
+  text-decoration-color: aquamarine;
+}
